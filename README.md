@@ -1,1 +1,1 @@
-# ibm_capstone_proj
+# coding-project-template
